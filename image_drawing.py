@@ -1,5 +1,3 @@
-# USAGE
-# python image_drawing.py
 
 # import the necessary packages
 import argparse
